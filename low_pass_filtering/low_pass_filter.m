@@ -1,10 +1,3 @@
-% *************************************
-% Name: Vishal Mittal
-% ID: 2017A7PS0080P
-
-%  Assignment-I
-% *************************************
-
 clear all;
 close all;
 
