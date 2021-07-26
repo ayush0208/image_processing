@@ -1,4 +1,4 @@
-# image_processing
+# Image Processing
 
 ##  Low Pass filtering in Fourier Domain
 * low_pass_filter.m: MATLAB file containing code for low-pass filtering in Fourier domain with a square filter with D0 = 25 pixels i.e. side of the square filter function (H(u,v)) = 50 pixels
